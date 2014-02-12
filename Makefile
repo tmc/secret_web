@@ -5,4 +5,4 @@ secret_web:
 	go build
 
 bower_components:
-	bower install angular-cookies angular-route angular-bootstrap bootstrap
+	bower install --allow-root angular-cookies angular-route angular-bootstrap bootstrap
